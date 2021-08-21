@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-section {
+    width: 100%;
+    margin: 15px 0 15px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mac-book {
+    width: 60%;
+    min-width: 700px;
+    display: flex;
+    justify-content: center;
+}
+
+.mac-book img {
+    width: 70%;
+    padding: 0 20px 0 20px;
+    height: 450px;
+    max-height: 500px;
+}
+
+.main {
+    padding: 0 90px 0 0;
+}
+
+header {
+    margin-bottom: 15px;
+}
+
+.heading {
+    margin-bottom: 10px;
+}
+
+.memory {
+    margin: 0 0 30px 0;
+}
+
+.storage {
+    margin: 0 0 30px 0;
+}
+
+.delivery-options {
+    margin: 0 0 70px 0;
+}
+
+
+
+.bold{
+    margin-bottom: 10px;
+}
+
+.button {
+    padding: 5px;
+    background: white;
+    border-radius: 4px;
+}
+
+.button:hover {
+    background: black;
+    color: white;
+}
+
+.cost {
+    width: 250px;
+}
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.space {
+    margin-bottom: 15px;
+}
+
+.space-bold {
+    margin-bottom: 15px;
+    height: 5px;
+    background: black;
+}
+
+.field {
+    padding: 8px;
+}
+
+.c-button {
+    padding: 5px;
+    background: red;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    margin: 15px 0 45px 0;
+}
